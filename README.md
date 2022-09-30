@@ -1,4 +1,4 @@
-# C Programming
+### C Programming
 I created this repository when i started to learn C.<br/>
 C is a complex language which makes it hard to grasp all its concepts at a go.<br/>
 I therefore decided to document my learning journey.<br/>
